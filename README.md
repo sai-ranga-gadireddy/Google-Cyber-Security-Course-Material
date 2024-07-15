@@ -55,6 +55,20 @@ once every few months. So, their data can be transferred to coldline storage bec
 no longer need frequent access to their records.
 Archival
 Finally, archival storage is best for archiving or backing up data for disaster recovery purposes.
+
+
+Security foundations for users are used by Google Cloud.
+Google’s security foundations are a list of best practices, or blueprints, for configuring and deploying Google services.
+They deploy and maintain secure solutions using infrastructure as code.
+The second way the shared fate model increases trust is with landing zones.
+A landing zone is a modular and scalable configuration that enables organizations to adopt Google Cloud for their business needs.
+Google offers guidance on configuring landing zones.
+For a user that's new to the cloud, using a landing zone provides a starting point for adding identity provisioning, a resource hierarchy, and network and security controls.
+Finally, the shared fate model focuses on mitigating risk with the Risk Protection Program.
+Part of the program includes Google’s tool, Risk Manager.
+Risk Manager is a Google Cloud security tool that offers insight into your organization's technical risk posture.
+A landing zone is a modular and scalable configuration that enables organizations to adopt Google Cloud for their business needs
+Risk Manager is a Google Cloud security tool that offers insight into your organization's technical risk posture
 This includes data that is accessed very infrequently, or once a year. Since there’s not as high
 of a demand for availability, archival storage is also very cost-effective.
 When the patient’s leg is completely healed, and they no longer need check-ups, their data
